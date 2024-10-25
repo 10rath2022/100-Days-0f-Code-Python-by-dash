@@ -4,4 +4,4 @@
     DataFrames & Series
     Working with Rows & Columns
     Data Analysis with Pandas
-## U.S. States Game
+## Indian States Game
